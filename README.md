@@ -1,0 +1,2 @@
+# applied_computer_vision
+This repository contains projects in computer vision with opencv implemented using c++. While most vision tasks are now being done using machine learning techniques, particularly convolutional neural networks, classical approaches like the implementations in this repository come in handy in cases where there is not enough training data. The implementations here use classical approaches for accomplishing tasks like: 
